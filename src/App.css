@@ -2,6 +2,25 @@
   text-align: center;
 }
 
+.black-nav{
+  display: flex;
+  background: black;
+  width: 100%;
+  color: white;
+  padding-left: 20px;
+}
+.h1-size{
+  font-size: 80px;
+}
+img {
+  float: right;
+  margin-right: 800px;
+  
+}
+h{
+  font-size: 18px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
